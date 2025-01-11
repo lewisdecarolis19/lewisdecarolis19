@@ -21,6 +21,7 @@
 
 <h2>🧑‍🏫 I'm Currently Learning</h2>
 
+<!--
 <h2>📺 Project Explanations</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
@@ -34,7 +35,7 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` ppears on your GitHub profile.
 
 Here are some ideas to get you started:
