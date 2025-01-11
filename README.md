@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Business Intelligence Projects:</h2>
 
-  - [GitHub Python and PowerBI Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Team GitHub Utilization and Compliance](https://github.com/lewisdecarolis19/GithubUtilizationMetrics/tree/main)
+<!--
   - [Cyberquery Project 1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   - [Inventory Label CQ](https://github.com/joshmadakor1/Sentinel-Lab)
   - [PV User Allocation CQ](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -11,7 +12,7 @@
   - [PE?](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [PowerAutomate for Reference Guide](https://github.com/joshmadakor1/EncrypterPOC)
   - [Something to Show Project Management or Collaboration](https://github.com/joshmadakor1/EncrypterPOC)
-
+-->
 
 
 <h2>👨‍💻 GIS Personal Projects:</h2>
