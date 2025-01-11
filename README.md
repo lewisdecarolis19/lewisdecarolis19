@@ -15,11 +15,11 @@
 -->
 
 
-<h2>👨‍💻 GIS Personal Projects:</h2>
+<h2>🌎 GIS Personal Projects:</h2>
   - [Coming Soon!]
   
 
-<h2>👨‍💻 I'm Currently Learning</h2>
+<h2>🧑‍🏫 I'm Currently Learning</h2>
 
 <h2>📺 Project Explanations</h2>
 
