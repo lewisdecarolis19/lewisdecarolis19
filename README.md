@@ -21,9 +21,9 @@
   
 
 <h2>I'm Currently Learning 🌱</h2>
-GIS!  I am enthusiastic about geography and maps, and I am currently enhancing my knowledge of GIS through ESRI's online courses.  Additionally, I am following along with video tutorials to effectively utilize popular tools such as ArcGIS and QGIS.  My goal is to leverage data to create compelling narratives using maps.  I am making progress on my own GIS projects, and I hope to add them to my portfolio soon.
 
-I am also continuing to build my knowledge in SQL, Python, and PowerBI.
+- GIS!  I am enthusiastic about geography and maps, and I am currently enhancing my knowledge of GIS through ESRI's online courses.  Additionally, I am following along with video tutorials to effectively utilize popular tools such as ArcGIS and QGIS.  My goal is to leverage data to create compelling narratives using maps.  I am making progress on my own GIS projects, and I hope to add them to my portfolio soon.
+- I am also continuing to build my knowledge in SQL, Python, and PowerBI.
 
 
 <!--
