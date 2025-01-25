@@ -16,7 +16,8 @@
 
 
 <h2>GIS Projects 🌎</h2>
-  - 🚧 [Coming Soon!] 🚧
+
+ 🚧 [Coming Soon!] 🚧
   
 
 <h2>🌱 I'm Currently Learning</h2>
