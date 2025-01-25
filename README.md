@@ -17,15 +17,19 @@
 
 <h2>GIS Projects 🌎</h2>
 
- 🚧 [Coming Soon!] 🚧
+ 🚧 In Progress 🚧
   
 
 <h2>🌱 I'm Currently Learning</h2>
+GIS!  I am enthusiastic about geography and maps, and I am currently enhancing my knowledge of GIS through ESRI's online courses.  Additionally, I am following along with video tutorials to effectively utilize popular tools such as ArcGIS and QGIS.  My goal is to leverage data to create compelling narratives using maps.  I am making progress on my own GIS projects, and I hope to add them to my portfolio soon.
+
+I am also continuing to build my knowledge in SQL, Python, and PowerBI.
+
 
 <!--
 <h2>📺 Project Explanations</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+[How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -33,13 +37,6 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` ppears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
