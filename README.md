@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lewis!</h1>
 
-<h2>👨‍💻 Business Intelligence Projects</h2>
+<h2>Analytics Projects 👨‍💻</h2>
 
   - [GitHub Utilization and Compliance](https://github.com/lewisdecarolis19/GithubUtilizationMetrics/tree/main)
 <!--
@@ -15,8 +15,8 @@
 -->
 
 
-<h2>🌎 GIS Personal Projects</h2>
-  - [Coming Soon!]
+<h2>GIS Projects 🌎</h2>
+  - 🚧 [Coming Soon!] 🚧
   
 
 <h2>🌱 I'm Currently Learning</h2>
