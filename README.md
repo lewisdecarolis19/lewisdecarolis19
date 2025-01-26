@@ -3,7 +3,7 @@
 <h2>Business Intelligence Projects 👨‍💻</h2>
 
   - [GitHub Utilization and Compliance](https://github.com/lewisdecarolis19/GithubUtilizationMetrics/tree/main)
-  - [Advancement Services](https://github.com/lewisdecarolis19/AdvancementServicesVisualizations)
+  - [Advancement Services Reporting](https://github.com/lewisdecarolis19/AdvancementServicesVisualizations)
 <!--
   - [Cyberquery Project 1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   - [Inventory Label CQ](https://github.com/joshmadakor1/Sentinel-Lab)
